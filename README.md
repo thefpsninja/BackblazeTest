@@ -1,7 +1,7 @@
 # BackblazeTest
 Hello and welcome to my Testing to Backup a Magento DB and its files. Running on a ubuntu 16.04 And how to fix the Duplicity Errors
 
-(*The ones is get)
+(*The ones is get*)
 
 ## Duplicity 0.8.17 on Ubuntu 16.04
 
