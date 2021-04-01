@@ -3,6 +3,8 @@ Hello and welcome to my Testing to Backup a Magento DB and its files. Running on
 
 (*The ones that i get*)
 
+Most is in the .sh files, and they sould be self explanatory but if not. just send a message
+
 ## Duplicity 0.8.17 on Ubuntu 16.04
 
 ```bash
