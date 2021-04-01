@@ -1,0 +1,5 @@
+
+
+## How to get Correct Duplicity on Ubuntu 16.04 ALL IS RUN AS SUDO
+snap install duplicity --classic (edited)
+alias duplicity='/snap/bin/duplicity'
